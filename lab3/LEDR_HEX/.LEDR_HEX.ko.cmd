@@ -1,0 +1,1 @@
+cmd_/home/root/lab_tasks/lab3/LEDR_HEX/LEDR_HEX.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/lab_tasks/lab3/LEDR_HEX/LEDR_HEX.ko /home/root/lab_tasks/lab3/LEDR_HEX/LEDR_HEX.o /home/root/lab_tasks/lab3/LEDR_HEX/LEDR_HEX.mod.o
