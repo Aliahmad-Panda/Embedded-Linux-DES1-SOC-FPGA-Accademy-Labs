@@ -1,0 +1,1 @@
+cmd_/home/root/lab_tasks/lab2/timer/timer.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/lab_tasks/lab2/timer/timer.ko /home/root/lab_tasks/lab2/timer/timer.o /home/root/lab_tasks/lab2/timer/timer.mod.o
