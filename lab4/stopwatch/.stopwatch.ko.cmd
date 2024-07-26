@@ -1,0 +1,1 @@
+cmd_/home/root/lab_tasks/lab4/stopwatch/stopwatch.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/lab_tasks/lab4/stopwatch/stopwatch.ko /home/root/lab_tasks/lab4/stopwatch/stopwatch.o /home/root/lab_tasks/lab4/stopwatch/stopwatch.mod.o
